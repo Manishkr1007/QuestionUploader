@@ -1,0 +1,7 @@
+logs
+ 
+admin-panel/node_modules
+admin-panel/build
+admin-panel/.env
+Backend/node_modules
+Backend/.env
